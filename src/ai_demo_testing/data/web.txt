@@ -1,0 +1,22 @@
+宠物商店
+<form _ngcontent-but-c48="" novalidate="" method="get" id="search-owner-form"
+      class="form-horizontal ng-pristine ng-valid ng-touched">
+    <div _ngcontent-but-c48="" class="form-group">
+        <div _ngcontent-but-c48="" id="lastNameGroup" class="control-group"><label _ngcontent-but-c48=""
+                                                                                   class="col-sm-2 control-label">Last
+            name </label>
+            <div _ngcontent-but-c48="" class="col-sm-10"><input _ngcontent-but-c48="" size="30" maxlength="80"
+                                                                id="lastName" name="lastName" value=""
+                                                                class="form-control ng-pristine ng-valid ng-touched"
+                                                                ng-reflect-maxlength="80"
+                                                                ng-reflect-name="lastName"><span _ngcontent-but-c48=""
+                                                                                                 class="help-inline"></span>
+            </div>
+        </div>
+    </div>
+    <div _ngcontent-but-c48="" class="form-group">
+        <div _ngcontent-but-c48="" class="col-sm-offset-2 col-sm-10">
+            <button _ngcontent-but-c48="" type="submit" class="btn btn-default">Find Owner</button>
+        </div>
+    </div>
+</form>
