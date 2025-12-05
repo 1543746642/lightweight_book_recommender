@@ -1,5 +1,5 @@
 from langchain_ollama import OllamaLLM
-from langchain_community.llms.openai import OpenAI  # 如果你还用 OpenAI
+from langchain_community.llms.openai import OpenAI
 
 from ai_demo_testing.service.testcase_sevice import callback_handler
 
