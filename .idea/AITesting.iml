@@ -8,7 +8,7 @@
       <excludeFolder url="file://$MODULE_DIR$/.venv/include" />
       <excludeFolder url="file://$MODULE_DIR$/.venv/share" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.13 (AutoPytest)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.13 (AITesting) (2)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
